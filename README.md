@@ -1,2 +1,6 @@
 # sgb_SPRO
-Simple Progression (SPRO) addon for GunBonsai (GB)
+See README.docx
+
+Release coming soon(tm)
+
+Still need to revise the readme and mod options
